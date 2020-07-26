@@ -1,5 +1,5 @@
 # PyCaret_tutorials
-official URL: https://pycaret.org/
+official URL: https://pycaret.org/ \
 github URL: https://github.com/pycaret/pycaret
 
 # Description
