@@ -1,3 +1,5 @@
+[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/caron14/PyCaret_tutorials/blob/master/pycaret_tutorials.ipynb)
+
 # PyCaret_tutorials
 official URL: https://pycaret.org/ \
 github URL: https://github.com/pycaret/pycaret
